@@ -14,6 +14,14 @@ The user name is created with the data provided by the "namey" API, in this way 
 Before starting the main.py, the correct path of the chrome driver must be specified, which is found in the utils folder, line 30 of the main.py file.
 At the end of the program we will have a file.txt that will give us a record of the data of the created users.
 
+https://github.com/cesesteban/CreatorAccounts/blob/main/creatorAccounts/utils/imageV1.png?raw=true
+
+https://github.com/cesesteban/CreatorAccounts/blob/main/creatorAccounts/utils/imageV2.png?raw=true
+
+![image](https://user-images.githubusercontent.com/61483278/122101443-accba280-cdea-11eb-82ac-5438ace3d99a.png)
+
+![image](https://user-images.githubusercontent.com/61483278/122101490-bead4580-cdea-11eb-8d47-22de0926c027.png)
+
 
 
 --*cesesteban.
