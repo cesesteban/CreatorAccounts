@@ -27,7 +27,7 @@ for i in range(users):
         "sslProxy": PROXY,
         "proxyType": "MANUAL",
     }
-    driver=webdriver.Chrome("C:/Users/c-est/spyder-py3/creatorAccountsTestv2/utils/chromedriver")
+    driver=webdriver.Chrome("absolutePath/chromedriver")
     driver.get(url)
     userName,password,email,birthday,genderUser=completeForm.completeForm(driver)                                                               
     formToken=generateToken.generateToken(url)
