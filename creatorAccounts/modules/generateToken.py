@@ -9,7 +9,7 @@ import time
 
 def generateToken (url):
     sitekey='6Lf93goUAAAAAJKhC4y-Ok88s72iUJ8UX4bLQMmw'
-    apiKey="19274a22b8ccfb6a3fc5ca5fbadb7ce4"
+    apiKey="yourapiKey"
     apiSubmitUrl="http://2captcha.com/in.php"
     apiRetrieveUrl='http://2captcha.com/res.php'
     curl = f"{apiSubmitUrl}?key={apiKey}&method=userrecaptcha&googlekey={sitekey}&pageurl={url}&json=1&invisible=1"
